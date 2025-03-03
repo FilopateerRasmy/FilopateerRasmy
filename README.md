@@ -2,7 +2,7 @@
 - 👀 I’m interested in buliding web applications using angular
 - 🌱 I’m currently learning node js, express, mongodb
 - 💞️ I’m looking to collaborate on projects that will help me develop my skills and knowledge
-- 📫 How to reach me filopateer.sobhy@.com or linkedin profile https://www.linkedin.com/in/filopateer-sobhy/
+- 📫 How to reach me filopateer.sobhy@gmail.com or linkedin profile https://www.linkedin.com/in/filopateer-sobhy/
 
 <!---
 FilopateerRasmy/FilopateerRasmy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
